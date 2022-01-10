@@ -1,2 +1,2 @@
 # stepik-homework
-module 3
+this repository for module 3 homework cheking
